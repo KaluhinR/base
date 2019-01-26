@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+}
+ul {
+	list-style-type: none;
+}
+.nav {
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+}
+.nav > li {
+ 	margin-right: 20px;
+}
+.nav > li > a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #0f0f0e
+}
+.nav > li > a :hover {
+	color: #b59f5b;
+}
+.sidebar {
+	text-align: center;
+}
+.sidebar-block-about p {
+	font-style: italic;
+	font-family: 'Open Sans', sans-serif;
+}
+footer{
+	text-align: center;
+}
+.btn-top {
+	font-family: 'Mrs Sheppards', cursive;
+}

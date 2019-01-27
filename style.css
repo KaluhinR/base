@@ -26,6 +26,46 @@ ul {
 .nav > li > a :hover {
 	color: #b59f5b;
 }
+
+.post-top-col {
+ text-align: center;
+
+}
+
+.post-top-col__tag {
+	color: #b59f5b;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.post-top-col_title {
+ 	font-size: 20px;
+ 	font-weight: 700;
+ 	text-transform: uppercase;
+
+}
+
+.post-top-col_title a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.post-top-col__info {
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.post-top-col__info a,
+.post-top-col__info p {
+ color: rgba(255,255,255,0.54);
+
+
+}
+
 .sidebar {
 	text-align: center;
 }
